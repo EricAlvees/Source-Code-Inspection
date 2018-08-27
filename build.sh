@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo 'Minha Primeira Modificação'
+
 _PWD=`pwd`
 CopyLibs=$_PWD/lib/org-netbeans-modules-java-j2seproject-copylibstask.jar
 
